@@ -5,7 +5,7 @@
 
 <p>
 Welcome to my GitHub profile! 👋 <br/>
-I'm <b>Salah Said</b>, a passionate <b>Python Junior Developer</b> and <b>AI enthusiast</b> from Somalia 🇸🇴.
+I'm <b>Salah Said</b>, a passionate <b>Python Developer</b> and <b>AI enthusiast</b> from Somalia 🇸🇴.
 I enjoy learning programming, building Python projects, exploring artificial intelligence, and improving my problem-solving skills every day.
 </p>
 
